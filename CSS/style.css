@@ -1,0 +1,11 @@
+body {
+background-color: black;
+}
+.Стиль_заголовка {
+    color: red;
+font-size: 90px;
+}
+.Стиль_обзаца {
+color: blue;
+font-size: 50px;
+}
